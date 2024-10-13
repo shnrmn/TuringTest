@@ -27,6 +27,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+        _gameOver = false;
         if (levels.Length > 0)
             ChangeState(GameState.Briefing, levels[_currentLevelIndex]);
     }

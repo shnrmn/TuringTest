@@ -479,7 +479,7 @@ MonoBehaviour:
   pickupLayer:
     serializedVersion: 2
     m_Bits: 1024
-  pickupDistance: 6
+  pickupDistance: 3
   attachTransform: {fileID: 7653740396180349324}
 --- !u!1 &3873872709026246821
 GameObject:
